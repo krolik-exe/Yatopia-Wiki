@@ -1,3 +1,6 @@
+# Config Entries for Yatopia
+
+
 ### verbose
 ``Default``: ``false`` Change to ``true`` if You want to turn on verbose mode.
 
